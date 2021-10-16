@@ -5,6 +5,7 @@ This a system wherein the employees’ information is stored on this system, inc
 The system only preferred to the Administrator which the account username and password are:
 
 Username: admin
+
 Password: admin123
 
 The admin can add, update and delete an employee.
