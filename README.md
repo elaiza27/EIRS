@@ -10,3 +10,6 @@ Password: admin123
 
 The admin can add, update and delete an employee.
 
+NOTE: The database are uploaded inside the folder of employeeIRS which is also inside the folder name DATABASE:
+The dabase name is employeerecord.sql
+
